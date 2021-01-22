@@ -1,0 +1,5 @@
+C:\Users\flami\Source\Repos\A2-itemList\A2-itemList\bin\x86\Debug\A2_itemList.exe
+C:\Users\flami\Source\Repos\A2-itemList\A2-itemList\bin\x86\Debug\Program1.idy
+C:\Users\flami\Source\Repos\A2-itemList\A2-itemList\obj\x86\Debug\A2_itemList.exe
+C:\Users\flami\Source\Repos\A2-itemList\A2-itemList\obj\x86\Debug\Program1.idy
+C:\Users\flami\Source\Repos\A2-itemList\A2-itemList\obj\x86\Debug\Program1.obj
